@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_num_16_ListViewStatic</string>
+    <string name="Hw16_title">listView 靜態載入</string>
+    <string-array name="cities">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+        <item>item 4</item>
+    </string-array>
+</resources>
